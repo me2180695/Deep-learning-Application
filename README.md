@@ -1,0 +1,4 @@
+# Deep-learning-Application
+1.	Finding_best3fitting_nn: For a given , Regression neural network architecture (two hidden layers, explore within the range 1-20 for the number of neurons in each hidden layer) that yields the minimum mean absolute percentage error (MAPE) was found. 3 best neural net architectures (number of neurons in each hidden layer) and the corresponding MAPE values were outputted.
+2.	Non-linearoptimisation: For each of the 3 best neural net architectures,  the fitted neural net was used  as an objective function to find the feature values that maximize the output (the regression label). This was a constrained nonlinear optimization problem, with the constraints being bounds – i.e., each feature is constrained to lie in the closed interval [0,1].
+##Note : Data to be used cannot be shared , as i have to acquire permissions from the professor associated with the project . 
